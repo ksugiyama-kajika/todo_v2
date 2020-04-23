@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'todo_v2'
+
+TodoV2::Command.run(ARGV)
